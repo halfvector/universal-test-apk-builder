@@ -17,6 +17,52 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    productFlavors {
+        version00 {
+            versionCode 2015081001
+            versionName "1.0.0"
+        }
+        version01 {
+            versionCode 2015081002
+            versionName "1.1.0"
+        }
+        version02 {
+            versionCode 2015081003
+            versionName "1.2.0"
+        }
+        version03 {
+            versionCode 2015081004
+            versionName "1.3.0"
+        }
+        version04 {
+            versionCode 2015081005
+            versionName "1.4.0-alpha"
+        }
+        version05 {
+            versionCode 2015081006
+            versionName "1.4.0-beta"
+        }
+        version6 {
+            versionCode 2015081007
+            versionName "1.4.0"
+        }
+        version07 {
+            versionCode 2015081008
+            versionName "1.5.0"
+        }
+        version08 {
+            versionCode 2015081009
+            versionName "1.6.0-rc-2"
+        }
+        version09 {
+            versionCode 2015081010
+            versionName "1.6.0"
+        }
+        version10 {
+            versionCode 2015081011
+            versionName "2.0.0"
+        }
+    }
 }
 
 dependencies {

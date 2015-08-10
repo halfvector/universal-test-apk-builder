@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Universal Test App</string>
+    <string name="app_name">Uni Test App</string>
 
     <string name="app_version">Loading version..</string>
     <string name="action_settings">Settings</string>
+    <string name="app_label">Test App</string>
 </resources>
