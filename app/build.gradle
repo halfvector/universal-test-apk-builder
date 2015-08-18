@@ -42,7 +42,7 @@ android {
             versionCode 2015081006
             versionName "1.4.0-beta"
         }
-        version6 {
+        version06 {
             versionCode 2015081007
             versionName "1.4.0"
         }
